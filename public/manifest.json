@@ -1,7 +1,7 @@
 {
   "name": "Dev'Coffee",
   "short_name": "DevCoffee",
-  "start_url": "public/index.html",
+  "start_url": "/index.html",
   "scope": "/",
   "display": "standalone",
   "background_color": "#fdfdfd",
@@ -10,27 +10,27 @@
   "purpose": "maskable",
   "icons": [
     {
-      "src": "public/assets/icon-72x72.png",
+      "src": "assets/icon-72x72.png",
       "type": "image/png", "sizes": "72x72"
     },
     {
-      "src": "public/assets/icon-96x96.png",
+      "src": "assets/icon-96x96.png",
       "type": "image/png", "sizes": "96x96"
     },
     {
-      "src": "public/assets/icon-128x128.png",
+      "src": "assets/icon-128x128.png",
       "type": "image/png","sizes": "128x128"
     },
     {
-      "src": "public/assets/icon-192x192.png",
+      "src": "assets/icon-192x192.png",
       "type": "image/png", "sizes": "192x192"
     },
     {
-      "src": "public/assets/icon-384x384.png",
+      "src": "assets/icon-384x384.png",
       "type": "image/png", "sizes": "384x384"
     },
     {
-      "src": "public/assets/icon-512x512.png",
+      "src": "assets/icon-512x512.png",
       "type": "image/png", "sizes": "512x512"
     }
   ]
