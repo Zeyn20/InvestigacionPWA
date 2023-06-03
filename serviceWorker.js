@@ -1,5 +1,5 @@
-const staticDevCoffee = "dev-coffee-site-v1";
-const assets = [
+var staticDevCoffee = "dev-coffee-site-v1";
+var assets = [
   "/",
   "/index.html",
   "/css/style.css",
