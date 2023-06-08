@@ -1,6 +1,6 @@
 const staticDevCoffee = "dev-coffee-site-v1";
 const assets = [
-  "https://zeyn20.github.io"
+  "/zeyn20.github.io"
 //   "/",
 //   "/investigacionPWA",
 //   "/investigacionPWA/index.html",
