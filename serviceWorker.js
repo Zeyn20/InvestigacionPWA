@@ -1,21 +1,21 @@
 const staticDevCoffee = "dev-coffee-site-v1";
 const assets = [
-  "https://zeyn20.github.io",
-  "/",
-  "/investigacionPWA",
-  "/investigacionPWA/index.html",
-  "/investigacionPWA/css/style.css",
-  "/investigacionPWA/js/app.js" ,
-  "/investigacionPWA/icon.ico",
-  "/investigacionPWA/images/coffee1.jpg",
-  "/investigacionPWA/images/coffee2.jpg",
-  "/investigacionPWA/images/coffee3.jpg",
-  "/investigacionPWA/images/coffee4.jpg",
-  "/investigacionPWA/images/coffee5.jpg",
-  "/investigacionPWA/images/coffee6.jpg",
-  "/investigacionPWA/images/coffee7.jpg",
-  "/investigacionPWA/images/coffee8.jpg",
-  "/investigacionPWA/images/coffee9.jpg"
+  "https://zeyn20.github.io"
+//   "/",
+//   "/investigacionPWA",
+//   "/investigacionPWA/index.html",
+//   "/investigacionPWA/css/style.css",
+//   "/investigacionPWA/js/app.js" ,
+//   "/investigacionPWA/icon.ico",
+//   "/investigacionPWA/images/coffee1.jpg",
+//   "/investigacionPWA/images/coffee2.jpg",
+//   "/investigacionPWA/images/coffee3.jpg",
+//   "/investigacionPWA/images/coffee4.jpg",
+//   "/investigacionPWA/images/coffee5.jpg",
+//   "/investigacionPWA/images/coffee6.jpg",
+//   "/investigacionPWA/images/coffee7.jpg",
+//   "/investigacionPWA/images/coffee8.jpg",
+//   "/investigacionPWA/images/coffee9.jpg"
 ];
 
 self.addEventListener("install", installEvent => {
