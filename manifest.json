@@ -1,7 +1,7 @@
 {
   "name": "Dev'Coffee",
   "short_name": "DevCoffee",
-  "start_url": "/InvestigacionPWA",
+  "start_url": "/InvestigacionPWA/index.html",
   "scope": "/",
   "display": "standalone",
   "background_color": "#fdfdfd",
